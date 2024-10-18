@@ -1,0 +1,102 @@
+{
+    "tests": [
+        {
+            "score": 4,
+            "max_score": 4,
+            "name": "test_homework0.py::test_1_person_35_tip",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4,
+            "max_score": 4,
+            "name": "test_homework0.py::test_3_person_80_tip",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4,
+            "max_score": 4,
+            "name": "test_homework0.py::test_7_person_80_tip",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4,
+            "max_score": 4,
+            "name": "test_homework0.py::test_4_person_35_tip",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4,
+            "max_score": 4,
+            "name": "test_homework0.py::test_8_person_80_tip",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4,
+            "max_score": 4,
+            "name": "test_homework0.py::test_10_person_35_tip",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4,
+            "max_score": 4,
+            "name": "test_homework0.py::test_11_person_10_tip",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4,
+            "max_score": 4,
+            "name": "test_homework0.py::test_12_person_80_tip",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4,
+            "max_score": 4,
+            "name": "test_homework0.py::test_13_person_80_tip",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4,
+            "max_score": 4,
+            "name": "test_homework0.py::test_14_person_10_tip",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2,
+            "max_score": 2,
+            "name": "test_homework0.py::test_15_person_35_tip",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3,
+            "max_score": 3,
+            "name": "test_homework0.py::test_16_person_80_tip",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2,
+            "max_score": 2,
+            "name": "test_homework0.py::test_17_person_10_tip",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3,
+            "max_score": 3,
+            "name": "test_homework0.py::test_100_person_80_tip",
+            "output": "\n",
+            "visibility": "visible"
+        }
+    ]
+}

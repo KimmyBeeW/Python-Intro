@@ -1,0 +1,32 @@
+{
+    "tests": [
+        {
+            "score": 2,
+            "max_score": 2,
+            "name": "test_lab09.py::test_in_range1",
+            "output": "Bad number: -4\n\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 8,
+            "max_score": 8,
+            "name": "test_lab09.py::test_in_range2",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4,
+            "max_score": 4,
+            "name": "test_lab09.py::test_grid_in_bounds_function",
+            "output": "Out of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\n\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 6,
+            "max_score": 6,
+            "name": "test_lab09.py::test_grid_get_and_set_out_of_bounds",
+            "output": "Out of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\n\n",
+            "visibility": "visible"
+        }
+    ]
+}

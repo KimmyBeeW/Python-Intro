@@ -1,0 +1,60 @@
+{
+    "tests": [
+        {
+            "score": 2.5,
+            "max_score": 2.5,
+            "name": "test_lab01.py::test_falling_6_3",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.5,
+            "max_score": 2.5,
+            "name": "test_lab01.py::test_falling_4_3",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.5,
+            "max_score": 2.5,
+            "name": "test_lab01.py::test_falling_4_1",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.5,
+            "max_score": 2.5,
+            "name": "test_lab01.py::test_falling_4_0",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.5,
+            "max_score": 2.5,
+            "name": "test_lab01.py::test_sum_digits_10",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.5,
+            "max_score": 2.5,
+            "name": "test_lab01.py::test_sum_digits_4224",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.5,
+            "max_score": 2.5,
+            "name": "test_lab01.py::test_sum_digits_1234567890",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.5,
+            "max_score": 2.5,
+            "name": "test_lab01.py::test_sum_digits_123",
+            "output": "\n",
+            "visibility": "visible"
+        }
+    ]
+}

@@ -1,0 +1,256 @@
+{
+    "tests": [
+        {
+            "score": 1,
+            "max_score": 1,
+            "name": "test_sand_simulation.py::test_sand_str",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1,
+            "max_score": 1,
+            "name": "test_sand_simulation.py::test_rock_str",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1,
+            "max_score": 1,
+            "name": "test_sand_simulation.py::test_bubble_str",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1,
+            "max_score": 1,
+            "name": "test_sand_simulation.py::test_rock_physics",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_sand_simulation.py::test_sand_physics_out_of_bounds",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_sand_simulation.py::test_bubble_physics_out_of_bounds",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_sand_simulation.py::test_sand_physics_cant_move",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_sand_simulation.py::test_bubble_physics_cant_move",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_sand_simulation.py::test_sand_physics_straight_down",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_sand_simulation.py::test_bubble_physics_straight_up",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_sand_simulation.py::test_sand_physics_down_left",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_sand_simulation.py::test_bubble_physics_up_right",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_sand_simulation.py::test_sand_physics_down_right",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_sand_simulation.py::test_bubble_physics_up_left",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_sand_simulation.py::test_sand_physics_corner_rule",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_sand_simulation.py::test_bubble_physics_corner_rule",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1,
+            "max_score": 1,
+            "name": "test_sand_simulation.py::test_sand_move_out_of_bounds",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1,
+            "max_score": 1,
+            "name": "test_sand_simulation.py::test_bubble_move_out_of_bounds",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1,
+            "max_score": 1,
+            "name": "test_sand_simulation.py::test_sand_move_cant_move",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1,
+            "max_score": 1,
+            "name": "test_sand_simulation.py::test_bubble_move_cant_move",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1,
+            "max_score": 1,
+            "name": "test_sand_simulation.py::test_sand_move_straight_down",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1,
+            "max_score": 1,
+            "name": "test_sand_simulation.py::test_bubble_move_straight_up",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1,
+            "max_score": 1,
+            "name": "test_sand_simulation.py::test_sand_move_down_left",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1,
+            "max_score": 1,
+            "name": "test_sand_simulation.py::test_bubble_move_up_right",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1,
+            "max_score": 1,
+            "name": "test_sand_simulation.py::test_sand_move_down_right",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1,
+            "max_score": 1,
+            "name": "test_sand_simulation.py::test_bubble_move_up_left",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1,
+            "max_score": 1,
+            "name": "test_sand_simulation.py::test_sand_move_corner_rule",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1,
+            "max_score": 1,
+            "name": "test_sand_simulation.py::test_bubble_move_corner_rule",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 6,
+            "max_score": 6,
+            "name": "test_sand_simulation.py::test_move_falling_example",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 15,
+            "max_score": 15,
+            "name": "test_sand_simulation.py::test_add_objects",
+            "output": "pygame 2.6.1 (SDL 2.28.4, Python 3.12.1)\nHello from the pygame community. https://www.pygame.org/contribute.html\n\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 15,
+            "max_score": 15,
+            "name": "test_sand_simulation.py::test_remove_objects",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 10,
+            "max_score": 10,
+            "name": "test_sand_simulation.py::test_do_whole_grid_all_falling_rules",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 5,
+            "max_score": 5,
+            "name": "test_sand_simulation.py::test_sand_falls_together",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 5,
+            "max_score": 5,
+            "name": "test_sand_simulation.py::test_bubbles_rise_together",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 5,
+            "max_score": 5,
+            "name": "test_sand_simulation.py::test_do_whole_grid_until_sand_settles",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 5,
+            "max_score": 5,
+            "name": "test_sand_simulation.py::test_do_whole_grid_until_bubbles_settle",
+            "output": "\n",
+            "visibility": "visible"
+        }
+    ]
+}

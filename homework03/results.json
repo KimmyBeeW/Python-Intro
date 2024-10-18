@@ -1,0 +1,67 @@
+{
+    "tests": [
+        {
+            "score": 10,
+            "max_score": 10,
+            "name": "test_homework3.py::test_check_list_malformed",
+            "output": "Grid must be in the form of a list.\nGrid must be in the form of a list.\nGrid must be in the form of a list.\nGrid must be at least 1x1\nGrid must be at least 1x1\nError in grid mechanism\nError in grid mechanism\n\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 10,
+            "max_score": 10,
+            "name": "test_homework3.py::test_build",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 6,
+            "max_score": 6,
+            "name": "test_homework3.py::test_copy",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 6,
+            "max_score": 6,
+            "name": "test_homework3.py::test_repr",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 6,
+            "max_score": 6,
+            "name": "test_homework3.py::test_eq",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3,
+            "max_score": 3,
+            "name": "test_homework3.py::test_get_and_set_in_bounds",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3,
+            "max_score": 3,
+            "name": "test_homework3.py::test_grid_in_bounds_function",
+            "output": "Out of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\n\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3,
+            "max_score": 3,
+            "name": "test_homework3.py::test_get_set_out_of_bounds",
+            "output": "Out of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\nOut of bounds.\n\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3,
+            "max_score": 3,
+            "name": "test_homework3.py::test_str",
+            "output": "\n",
+            "visibility": "visible"
+        }
+    ]
+}

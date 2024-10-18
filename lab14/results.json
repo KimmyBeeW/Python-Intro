@@ -1,0 +1,32 @@
+{
+    "tests": [
+        {
+            "score": 5,
+            "max_score": 5,
+            "name": "test_lab14.py::test_convert_link",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 5,
+            "max_score": 5,
+            "name": "test_lab14.py::test_store_digits",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 5,
+            "max_score": 5,
+            "name": "test_lab14.py::test_every_other",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 5,
+            "max_score": 5,
+            "name": "test_lab14.py::test_deep_map_mut",
+            "output": "\n",
+            "visibility": "visible"
+        }
+    ]
+}

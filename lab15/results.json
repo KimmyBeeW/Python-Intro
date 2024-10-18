@@ -1,0 +1,32 @@
+{
+    "tests": [
+        {
+            "score": 4,
+            "max_score": 4,
+            "name": "test_lab15.py::test_berry_finder",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4,
+            "max_score": 4,
+            "name": "test_lab15.py::test_height",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 6,
+            "max_score": 6,
+            "name": "test_lab15.py::test_max_path_sum",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 6,
+            "max_score": 6,
+            "name": "test_lab15.py::test_find_path",
+            "output": "\n",
+            "visibility": "visible"
+        }
+    ]
+}

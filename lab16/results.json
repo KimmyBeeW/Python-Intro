@@ -1,0 +1,53 @@
+{
+    "tests": [
+        {
+            "score": 2,
+            "max_score": 2,
+            "name": "test_lab16.py::test_tokenize_1",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2,
+            "max_score": 2,
+            "name": "test_lab16.py::test_tokenize_2",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2,
+            "max_score": 2,
+            "name": "test_lab16.py::test_tokenize_3",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2,
+            "max_score": 2,
+            "name": "test_lab16.py::test_tokenize_4",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2,
+            "max_score": 2,
+            "name": "test_lab16.py::test_tokenize_5",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 5,
+            "max_score": 5,
+            "name": "test_lab16.py::test_tokenize_6",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 5,
+            "max_score": 5,
+            "name": "test_lab16.py::test_tokenize_7",
+            "output": "\n",
+            "visibility": "visible"
+        }
+    ]
+}

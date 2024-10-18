@@ -1,0 +1,32 @@
+{
+    "tests": [
+        {
+            "score": 6,
+            "max_score": 6,
+            "name": "test_lab07.py::test_library_read_and_read_author",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4,
+            "max_score": 4,
+            "name": "test_lab07.py::test_book_str_and_repr",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4,
+            "max_score": 4,
+            "name": "test_lab07.py::test_library_str_and_repr",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 6,
+            "max_score": 6,
+            "name": "test_lab07.py::test_library_add_book",
+            "output": "\n",
+            "visibility": "visible"
+        }
+    ]
+}

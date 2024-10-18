@@ -1,0 +1,25 @@
+{
+    "tests": [
+        {
+            "score": 15,
+            "max_score": 15,
+            "name": "test_mergesort.py::test_mergesort_already_sorted_data",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 15,
+            "max_score": 15,
+            "name": "test_mergesort.py::test_mergesort_reversed_data",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 20,
+            "max_score": 20,
+            "name": "test_mergesort.py::test_mergesort_shuffled_data",
+            "output": "\n",
+            "visibility": "visible"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "tests": [
+        {
+            "score": 17,
+            "max_score": 17,
+            "name": "test_homework7.py::test_request_guard_domain",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 17,
+            "max_score": 17,
+            "name": "test_homework7.py::test_request_guard_subdomain",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 16,
+            "max_score": 16,
+            "name": "test_homework7.py::test_request_guard_offsite_domain",
+            "output": "\n",
+            "visibility": "visible"
+        }
+    ]
+}
