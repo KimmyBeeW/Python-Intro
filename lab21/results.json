@@ -1,0 +1,25 @@
+{
+    "tests": [
+        {
+            "score": 6,
+            "max_score": 6,
+            "name": "test_lab21.py::test_sample_scavenger_hunt",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 7,
+            "max_score": 7,
+            "name": "test_lab21.py::test_medium_scavenger_hunt",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 7,
+            "max_score": 7,
+            "name": "test_lab21.py::test_long_scavenger_hunt",
+            "output": "\n",
+            "visibility": "visible"
+        }
+    ]
+}
