@@ -1,1 +1,2 @@
-Favorite projects from class. Code won't work on it's own. Check out other repos for working code.
+z_old contains favorite projects from class from the first time I took the class, so the code won't work on it's own. 
+Updated code from when I ta'd does have working code.
