@@ -54,8 +54,15 @@ def every_other(link):
     Link(4)
     """
     while link is not Link.empty and link.rest is not Link.empty:
+        # print(f' link: {link} link.rest: {link.rest}, link.rest.rest: {link.rest.rest}')
         link.rest = link.rest.rest
+        # print(f' link.rest: {link.rest}')
         link = link.rest
+        # print(f' link: {link}\n\n')
+    # if link is Link.empty:
+    #     print("it's empty")
+    # if link.rest is Link.empty:
+    #     print("Quit. Only one number left")
 
 
 def deep_map_mut(fn, link):
@@ -73,7 +80,7 @@ def deep_map_mut(fn, link):
     if link is not Link.empty:
         if isinstance(link.first, Link):
             deep_map_mut(fn, link.first)
-        else:
+        else:  # link.first is an integer so apply function
             link.first = fn(link.first)
         deep_map_mut(fn, link.rest)
 
@@ -101,3 +108,9 @@ class Link:
             string += str(self.first) + ' '
             self = self.rest
         return string + str(self.first) + '>'
+
+
+if __name__ == "__main__":
+    s = Link(1, Link(2, Link(3, Link(4, Link(5, Link(6, Link(7)))))))
+    every_other(s)
+    print(s)
