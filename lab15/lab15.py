@@ -71,13 +71,13 @@ def find_path(t, x):
     [2, 7, 6, 5]
     >>> find_path(t, 10)  # returns None
     """
-    if t.label == x:
-        return [t.label]
-    for branch in t.branches:
-        path = find_path(branch, x)
+    if t.label == x:  # if the root is the number we are looking for
+        return [t.label]  # return the root (or the root of the branch if we are in the middle of recursion
+    for branch in t.branches:  # check the branches
+        path = find_path(branch, x)  # recurse through each level of the tree
         if path is not None:
-            return [t.label] + path
-    return None
+            return [t.label] + path  # return the list of the whole path
+    return None  # not necessary
 
 
 # Optional Question
