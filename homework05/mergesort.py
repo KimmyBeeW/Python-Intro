@@ -26,7 +26,7 @@ def merge_lists(lst1, lst2):
     the list (or move a pointer to the next index) and stores that smallest value in the new list to be returned.
     Continues to do this until one of the lists is empty. At that point, it copies all the remaining elements
     from the other list into the merged list which is then returned.
-    Doctests: python -m doctest mergesort.py
+    Doctests: python -m doctest mergesort1.py
     >>> merge_lists([1, 3, 5],[2, 4, 6])
     [1, 2, 3, 4, 5, 6]
     >>> merge_lists([2, 4, 6], [1, 3, 5])
@@ -72,7 +72,7 @@ def sort_txt(lines):
     Splits the list in half, recursively calls the function on both
     parts and then calls merge_lists to merge the two sorted halves.
     Base case is (how do you absolutely know that an arbitrary list is sorted?)
-    Doctests: python -m doctest mergesort.py
+    Doctests: python -m doctest mergesort1.py
     >>> sort_txt([4, 3, 7, 8, 2])
     [2, 3, 4, 7, 8]
     >>> sort_txt([1, 2, 3, 4, 5, 6])
