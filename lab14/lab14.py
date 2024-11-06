@@ -35,6 +35,16 @@ def store_digits(n):
         n //= 10
     return ll
 
+    # if n < 10:
+    #     return Link(n, Link.empty)
+    # else:  # use recursion
+    #     rest_of_list = store_digits(n // 10)
+    #     current = rest_of_list
+    #     while current.rest is not Link.empty:
+    #         current = current.rest
+    #     current.rest = Link(n % 10)
+    #     return rest_of_list
+
 
 def every_other(link):
     """Mutates a linked list so that all the odd-indexed elements are removed
@@ -112,5 +122,7 @@ class Link:
 
 if __name__ == "__main__":
     s = Link(1, Link(2, Link(3, Link(4, Link(5, Link(6, Link(7)))))))
+    print(repr(store_digits(1234567)))
+    print(repr(s))
     every_other(s)
-    print(s)
+    print(f'every other: {s}')
