@@ -128,7 +128,7 @@ def eval(syntax_tree):
     elif isinstance(syntax_tree, Pair):
         if isinstance(syntax_tree.first, Pair):
             frst = eval(syntax_tree.first)
-            rst = eval(syntax_tree.rest.map(eval))
+            rst = syntax_tree.rest.map(eval)  # Map the `eval` function onto each element of the rest of the Pair.
             return Pair(frst, rst)
         elif syntax_tree.first in ["+", "-", "/", "*"]:
             operands = syntax_tree.rest.map(eval)
