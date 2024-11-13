@@ -127,12 +127,12 @@ def eval(syntax_tree):
         return syntax_tree
     elif isinstance(syntax_tree, Pair):
         if isinstance(syntax_tree.first, Pair):
-            frst = eval(syntax_tree.first)
+            frst = eval(syntax_tree.first)  # evaluate first too
             rst = syntax_tree.rest.map(eval)  # Map the `eval` function onto each element of the rest of the Pair.
             return Pair(frst, rst)
         elif syntax_tree.first in ["+", "-", "/", "*"]:
             operands = syntax_tree.rest.map(eval)
-            return apply(syntax_tree.first, operands)
+            return apply(syntax_tree.first, operands)  # do the math with the operation and operands
     else:
         raise TypeError
 
