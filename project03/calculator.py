@@ -141,3 +141,4 @@ if __name__ == "__main__":
     print("Welcome to the CS 111 Calculator Interpreter.")  # main loop should follow greeting.
     get_expression()
     print("Goodbye!")
+    # print(reduce(add, Pair(3, Pair(4, Pair(5, nil))), 0))
