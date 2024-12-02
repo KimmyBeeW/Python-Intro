@@ -123,16 +123,16 @@ def eval(syntax_tree):
     >>> eval(Pair('*', Pair(Pair('-', Pair(8, Pair(4, nil))), Pair(4, nil))))
     16
     """
-    if isinstance(syntax_tree, float) or isinstance(syntax_tree, int):
+    if isinstance(syntax_tree, (float, int)):  # or isinstance(syntax_tree, int):
         return syntax_tree
     elif isinstance(syntax_tree, Pair):
-        if isinstance(syntax_tree.first, Pair):
-            frst = eval(syntax_tree.first)  # evaluate first too
-            rst = syntax_tree.rest.map(eval)  # Map the `eval` function onto each element of the rest of the Pair.
-            return Pair(frst, rst)
-        elif syntax_tree.first in ["+", "-", "/", "*"]:
-            operands = syntax_tree.rest.map(eval)
-            return apply(syntax_tree.first, operands)  # do the math with the operation and operands
+        # if isinstance(syntax_tree.first, Pair):
+        #     frst = eval(syntax_tree.first)  # evaluate first too
+        #     rst = syntax_tree.rest.map(eval)  # Map the `eval` function onto each element of the rest of the Pair.
+        #     return Pair(frst, rst)
+        # elif syntax_tree.first in ["+", "-", "/", "*"]:
+        operands = syntax_tree.rest.map(eval)
+        return apply(syntax_tree.first, operands)  # do the math with the operation and operands
     else:
         raise TypeError
 
@@ -141,4 +141,7 @@ if __name__ == "__main__":
     print("Welcome to the CS 111 Calculator Interpreter.")  # main loop should follow greeting.
     get_expression()
     print("Goodbye!")
+    # token = tokenize("(+ 2 7)")
+    # pair_obj_2 = parse(token)
+    # print(eval(pair_obj_2))
     # print(reduce(add, Pair(3, Pair(4, Pair(5, nil))), 0))
