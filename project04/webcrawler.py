@@ -201,6 +201,6 @@ if __name__ == "__main__":
     main(sys.argv[1:])  # terminal entry
 
     # Tests:
-    # main(["-c", "https://cs111.byu.edu/proj/proj4/assets/page1.html", "hist.png", "hist_data.csv"])
-    # main(["-p", "https://cs111.byu.edu/proj/proj4/assets/data.html", "outfile1.png", "outfile2.txt"])  # test -p
-    # main(["-i", "https://cs111.byu.edu/proj/proj4/assets/", "sepia_", "-s"])
+    # main(["-c", "https://cs111.byu.edu/Projects/project04/assets/page1.html", "hist.png", "hist_data.csv"])
+    # main(["-p", "https://cs111.byu.edu/Projects/project04/assets/data.html", "outfile1.png", "outfile2.txt"])
+    # main(["-i", "https://cs111.byu.edu/Projects/project04/assets/", "sepia_", "-s"])
